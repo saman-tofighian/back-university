@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Yekan;
+}
+body {
+  font-size: 100%;
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: Lalezar;
+  src: url(./assests/fonts/Lalezar.ttf);
+}
+@font-face {
+  font-family: Yekan;
+  src: url(./assests/fonts/Yekan.ttf);
+}
+.lalezar {
+  font-family: Lalezar;
+}
+.container{
+  width : 100%;
+}

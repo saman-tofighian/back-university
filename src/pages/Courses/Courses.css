@@ -1,0 +1,12 @@
+.filter-wrapper {
+  box-shadow: rgb(120 119 119 / 24%) 0 3px 8px;
+  border-radius: 5px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.filter-icon {
+  padding-bottom: 16px;
+}
+.filter-icon > strong {
+  padding-right: 10px;
+}

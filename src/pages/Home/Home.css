@@ -1,0 +1,14 @@
+.swiper-style {
+  padding-bottom: 10px !important;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.swiper-top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section-title {
+  font-family: Lalezar;
+  margin: 30px 0;
+}

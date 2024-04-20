@@ -1,0 +1,33 @@
+.hero-container {
+  background: #eee;
+}
+.row-parent {
+  width: 100%;
+  padding: 0 6% !important;
+}
+.heroImage {
+  background: #fff;
+  border-radius: 40% 60% 39% 61% / 57% 59% 41% 43%;
+  -webkit-border-radius: 40% 60% 39% 61% / 57% 59% 41% 43%;
+  -moz-border-radius: 40% 60% 39% 61% / 57% 59% 41% 43%;
+  -ms-border-radius: 40% 60% 39% 61% / 57% 59% 41% 43%;
+  -o-border-radius: 40% 60% 39% 61% / 57% 59% 41% 43%;
+  width: 550px;
+}
+.hero-title {
+  font-family: Lalezar;
+  text-align: center;
+  font-size: 2.3rem;
+  padding: 35px 0 !important;
+}
+.row-gap {
+  gap: 2rem 0 !important;
+}
+.start-learning {
+  padding: 35px 0 0 40px !important;
+  text-align: left;
+}
+.start-learning > strong {
+  font-size: 2.2rem;
+  margin-left: 5px !important;
+}

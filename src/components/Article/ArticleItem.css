@@ -1,0 +1,31 @@
+.card {
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: linear 0.6s;
+  -webkit-transition: linear 0.6s;
+  -moz-transition: linear 0.6s;
+  -ms-transition: linear 0.6s;
+  -o-transition: linear 0.6s;
+}
+.card:hover {
+  scale: 1.05;
+}
+.card-text {
+  text-align: justify;
+  color: #5d5c5c;
+}
+.read-more > span {
+  margin-left: 13px !important;
+}
+.read-more:hover {
+  cursor: pointer;
+  color: #f54980;
+}
+.card-footer {
+  margin-top: 13px !important;
+  color: #666 !important;
+}
+.card a {
+  text-decoration: none;
+  color: #848484;
+}

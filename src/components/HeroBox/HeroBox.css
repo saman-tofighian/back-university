@@ -1,0 +1,24 @@
+.heroBox-container {
+  width: 250px;
+  background: #fff;
+  border-radius: 77% 23% 44% 56% / 51% 63% 37% 49%;
+  -webkit-border-radius: 77% 23% 44% 56% / 51% 63% 37% 49%;
+  -moz-border-radius: 77% 23% 44% 56% / 51% 63% 37% 49%;
+  -ms-border-radius: 77% 23% 44% 56% / 51% 63% 37% 49%;
+  -o-border-radius: 77% 23% 44% 56% / 51% 63% 37% 49%;
+  margin: auto !important;
+}
+.heroBox-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heroBox-title {
+  padding-right: 10px !important;
+  font-size: 27px;
+}
+.heroBox-count {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
